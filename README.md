@@ -10,6 +10,8 @@
     <a href="https://www.codefactor.io/repository/github/francislatruelle/HWIDCheckerGUI/"><img src="https://www.codefactor.io/repository/github/francislatruelle/HWIDCheckerGUI/badge"></a>
 </p>
 
+<img src="https://i.imgur.com/POrz0tn.png" align="center">
+
 ---
 
 ## Introduction
