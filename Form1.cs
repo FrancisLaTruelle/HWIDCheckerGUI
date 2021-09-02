@@ -55,7 +55,6 @@ namespace WindowsFormsApp1
                 label7.Text = label7.Text + "\nHWID: " + resultObjX86.ToString();
             }
 
-
             label11.Text = "";
             int countDD = 1;
             foreach (ManagementObject info in searcherWin32_DiskDrive.Get())
@@ -91,7 +90,6 @@ namespace WindowsFormsApp1
             {
                 label14.Text = "Name: " + info["Name"].ToString() + "\nVersion: " + info["Version"].ToString() + "\nSerial Number: " + info["SerialNumber"].ToString();
             }
-
         }
 
         // Close window
